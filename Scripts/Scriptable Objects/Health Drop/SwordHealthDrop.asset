@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5f34aac8c2654543ac8595adf18b9ee, type: 3}
+  m_Name: SwordHealthDrop
+  m_EditorClassIdentifier: 
+  healthDropPrefab: {fileID: 474351730018274662, guid: afb895b6f607a6a429347501b5cae28e,
+    type: 3}
+  healthRegenerationDataModel:
+    healingPoints: 30
+    dicesCount: 3
+    diceFacesCount: 6
+    sumGraterOrEqual: 9
+    dropChanceOnKnifeKill: 70

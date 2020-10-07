@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266153b09bb54052ad219b7d86bbf1ab, type: 3}
+  m_Name: OnTakingDamage
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: d0f603a42b7aad640bb47f660435e6a6, type: 3}
+  - {fileID: 8300000, guid: bcc3d9ccb67b514448ab9af4d3a4c3e1, type: 3}
+  - {fileID: 8300000, guid: dd55167a14695864c879c56883f3757a, type: 3}
+  - {fileID: 8300000, guid: f7f0308b2326fb34f8c7d5886a5400fb, type: 3}
+  - {fileID: 8300000, guid: 0967c3bdaacb7204f956ef39f8035cbb, type: 3}
+  - {fileID: 8300000, guid: 3e72cab1386e1234fa9e9b9d663236a5, type: 3}
+  - {fileID: 8300000, guid: 9b3e089929fb270489143811ad9beece, type: 3}
+  threshold: 0
+  chanceForSaying: 10
